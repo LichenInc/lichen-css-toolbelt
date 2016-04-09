@@ -23,8 +23,10 @@ The library is available in both SCSS and CSS.
 
 ## Tests and build
 
-Describe and show how to run the tests with code examples.
-
+To build from sources run:
+```
+npm run build
+```
 ## Thanks
 
 This library is inspired by many others CSS framework like SUIT, Bulma. Thank you.
