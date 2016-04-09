@@ -28,7 +28,7 @@
     "Alexandre Bonaventure Geissmann <ageissmann@lichencommunications.com>"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node-sass --include-path scss src/index.scss dist/css/main.css"
   },
   "license": "ISC"
 }
