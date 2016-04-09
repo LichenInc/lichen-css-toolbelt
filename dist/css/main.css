@@ -1,0 +1,121 @@
+/********
+ * TEXT *
+ ********/
+.is-text-left {
+  text-align: left; }
+
+.is-text-right {
+  text-align: right; }
+
+.is-1-em {
+  font-size: 0.1em; }
+
+.is-2-em {
+  font-size: 0.2em; }
+
+.is-3-em {
+  font-size: 0.3em; }
+
+.is-4-em {
+  font-size: 0.4em; }
+
+.is-5-em {
+  font-size: 0.5em; }
+
+.is-6-em {
+  font-size: 0.6em; }
+
+.is-7-em {
+  font-size: 0.7em; }
+
+.is-8-em {
+  font-size: 0.8em; }
+
+.is-9-em {
+  font-size: 0.9em; }
+
+.is-10-em {
+  font-size: 1em; }
+
+.is-11-em {
+  font-size: 1.1em; }
+
+.is-12-em {
+  font-size: 1.2em; }
+
+.is-13-em {
+  font-size: 1.3em; }
+
+.is-14-em {
+  font-size: 1.4em; }
+
+.is-15-em {
+  font-size: 1.5em; }
+
+.is-16-em {
+  font-size: 1.6em; }
+
+.is-17-em {
+  font-size: 1.7em; }
+
+.is-18-em {
+  font-size: 1.8em; }
+
+.is-19-em {
+  font-size: 1.9em; }
+
+.is-20-em {
+  font-size: 2em; }
+
+.is-100 {
+  font-weight: 100; }
+
+.is-200 {
+  font-weight: 200; }
+
+.is-300 {
+  font-weight: 300; }
+
+.is-400 {
+  font-weight: 400; }
+
+.is-500 {
+  font-weight: 500; }
+
+.is-600 {
+  font-weight: 600; }
+
+.is-700 {
+  font-weight: 700; }
+
+.is-800 {
+  font-weight: 800; }
+
+.is-900 {
+  font-weight: 900; }
+
+/********
+ * FLEX *
+ ********/
+.is-flex-container {
+  display: flex; }
+
+.is-flex-row {
+  display: flex;
+  flex-direction: row; }
+
+.is-flex-column {
+  display: flex;
+  flex-direction: column; }
+
+.is-flex {
+  flex: 1 0 auto; }
+
+.is-flex-1 {
+  flex: 1 0 auto; }
+
+.is-flex-2 {
+  flex: 2 0 auto; }
+
+.is-flex-3 {
+  flex: 3 0 auto; }
