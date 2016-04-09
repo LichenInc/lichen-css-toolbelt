@@ -1,0 +1,28 @@
+/********
+ * TEXT *
+ ********/
+
+// Alignment
+.is-text-left {
+  text-align: left;
+}
+
+.is-text-right {
+  text-align: right;
+}
+
+// Sizes
+// is-x-em provide a way to quickly adjust font size with markup
+@for $i from 1 through 20 {
+  .is-#{$i}-em {
+    font-size: #{$i/10}em;
+  }
+}
+
+// Weights
+// is-xxx provide a way to quickly adjust font size with markup
+@for $i from 1 through 9 {
+  .is-#{$i}00 {
+    font-weight: #{$i*100};
+  }
+}

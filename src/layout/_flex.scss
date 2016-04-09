@@ -1,0 +1,33 @@
+/********
+ * FLEX *
+ ********/
+
+.is-flex-container {
+  display: flex;
+}
+
+.is-flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.is-flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.is-flex {
+  flex: 1 0 auto;
+}
+
+.is-flex-1 {
+  flex: 1 0 auto;
+}
+
+.is-flex-2 {
+  flex: 2 0 auto;
+}
+
+.is-flex-3 {
+  flex: 3 0 auto;
+}

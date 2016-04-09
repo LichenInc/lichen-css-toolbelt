@@ -1,3 +1,6 @@
-.is-text-left {
-    text-align: left
-}
+
+// Text
+@import "./text/text";
+
+// Layout
+@import "./layout/flex";
